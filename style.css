@@ -4,5 +4,7 @@
 }
 
 h1 {
-  font-family: "Adventure";
+  font-family: 'Adventure', Arial, sans-serif;
+  font-weight:normal;
+  font-style:normal;
 }
