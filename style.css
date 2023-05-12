@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Adventure";
+  src: url('Adventure.eotl');
+}
+
+h1 {
+  font-family: "Adventure";
+}
