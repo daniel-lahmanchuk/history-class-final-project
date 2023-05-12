@@ -1,10 +1,32 @@
 @font-face {
-  font-family: "Adventure";
-  src: url('Adventure.otf');
+  font-family: 'Adventure';
+  src: url('adventure.otf');
+}
+
+@font-face {
+	font-family: 'Comic Story';
+	src: url('comic_story.otf')
+}
+
+body {
+	background-image: url("background.svg");
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: cover;
 }
 
 h1 {
-  font-family: 'Adventure', Arial, sans-serif;
-  font-weight:normal;
-  font-style:normal;
+  font-family: 'Adventure';
+  font-size: 36px;
+}
+
+h2 {
+	font-family: 'Comic Story';
+	font-size: 18px;
+}
+
+.comicbook {
+	height: 350px;
+	width: auto;
+	padding-left: 25px;
 }
