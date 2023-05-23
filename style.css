@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
 @font-face {
   font-family: 'Adventure';
   src: url('adventure.otf');
@@ -33,5 +35,5 @@ h2 {
 }
 
 p {
-	font-style: 'Merriweather';
+	font-family: 'Merriweather', serif;
 }
