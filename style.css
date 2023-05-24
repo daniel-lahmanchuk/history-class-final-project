@@ -46,3 +46,7 @@ button {
 	background-color: #008CBA;
 	color: white;
   }
+
+  .button-container {
+	margin: 15px;
+  }
