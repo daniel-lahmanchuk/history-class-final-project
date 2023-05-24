@@ -36,14 +36,14 @@ p {
 button {
 	background-color: white; 
 	color: black; 
-	border: 2px solid #008CBA;
+	border: 2px solid #00A3E8;
 	border-radius: 8px;
 	font-family:'Bahnschrift SemiBold', sans-serif;
 	font-size: 30px;
   }
   
   button:hover {
-	background-color: #008CBA;
+	background-color: #00A3E8;
 	color: white;
   }
 
