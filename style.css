@@ -32,3 +32,16 @@ img {
 p {
 	font-family:'Bahnschrift SemiBold', sans-serif;
 }
+
+button {
+	background-color: white; 
+	color: black; 
+	border: 2px solid #008CBA;
+	font-family:'Bahnschrift SemiBold', sans-serif;
+  }
+  
+  button:hover {
+	background-color: #008CBA;
+	color: white;
+	font-family:'Bahnschrift SemiBold', sans-serif;
+  }
