@@ -60,3 +60,8 @@ button {
   figcaption {
 	font-family: 'Bahnschrift SemiBold', sans-serif;
   }
+
+  .end_title {
+	font-size: 100px;
+	text-align: center;
+  }
