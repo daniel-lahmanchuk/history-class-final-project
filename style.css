@@ -64,3 +64,8 @@ button {
   .end_title {
 	font-size: 150px;
   }
+
+  .final_image {
+	width: 50px;
+	height: auto;
+  }
